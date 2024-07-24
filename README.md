@@ -16,18 +16,18 @@ To run this project, you need to have Python installed along with the following 
 You can install the required packages using pip:
 ```bash
 pip install pandas tensorflow scikit-learn
-
+```
 ## Usage
 To execute the project:
 
 1. Clone the repository to your local machine.
 2. Navigate to the directory containing the project files.
 3. Run the notebook Student_Loan_Risk_with_Deep_Learning.ipynb in Google Colab at https://colab.research.google.com/ or Jupyter notebook. I used Google Colab.
-
+```
 git clone <repository-url>
 cd <repository-directory>
 jupyter notebook Student_Loan_Risk_with_Deep_Learning.ipynb
-
+```
 ## Structure
 * Student_Loan_Risk_with_Deep_Learning.ipynb: This Jupyter notebook contains all the code and documentation for the project.
 * data/: This directory stores the CSV data file.
